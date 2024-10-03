@@ -1,0 +1,13 @@
+// steps:
+// create a container 
+// create a contain to hold character count
+// Read sentences into your senetences container
+// Read each character and add one to your character count container
+// Print character count
+
+// 2
+// count number of words in the sentences
+// steps:
+// create a container to hold your sentence
+// create another container to hold each count
+// read sentence character by character when single space is reach, add 1 to word cound
